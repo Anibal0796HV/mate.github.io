@@ -139,7 +139,9 @@ img {
   padding-top: 7rem;
   overflow: hidden;
 }
-
+.boton{
+  font-family: var(--second-font);
+}
 .home__title{
   color: var(--white-color);
   font-size: var(--biggest-font-size);
